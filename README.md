@@ -2,6 +2,10 @@
 
 ![CaveZombies](https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/79c3bacb-7c62-4c9d-99e6-b1399f6c55a8)
 
+<br>
+<br>
+<br>
+
 
 After falling down a cave, you must explore and fight your way out.  Be careful of the dangers that lurk in the dark.
 
