@@ -4,6 +4,9 @@
 <br>
 <br>
 <br>
+<h1>
+  Demo
+</h1>
 
 https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/5516877e-fb52-472b-9016-e10ee8931ba5
 
@@ -20,6 +23,10 @@ The game is a Work In Progress and will constantly be updated with new features 
 <br>
 <br>
 <br>
+
+<h1>
+  ScreenShots
+</h1>
 
 ![OpenCave](https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/7ca8652c-7940-4ec7-bbd1-aa92e4a79cf6)
 ![Screenshot (147)](https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/5e6ab840-d882-4a5d-9da4-f76375ef110a)
