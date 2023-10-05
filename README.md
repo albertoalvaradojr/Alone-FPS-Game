@@ -33,7 +33,7 @@ The game is a Work In Progress and will constantly be updated with new features 
 ![Screenshot (137)](https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/60344f04-41ee-460a-bd78-3962ff750f24)
 <br>
 
-<h1>Updates</h1>
+<h1 style="color: green;">Updates</h1>
 
 <b>Added throwable grenades that explode within a certain amount of time.
 </b>
