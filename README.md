@@ -33,4 +33,8 @@ The game is a Work In Progress and will constantly be updated with new features 
 ![Screenshot (137)](https://github.com/albertgs09/Alone-FPS-Game/assets/65637580/60344f04-41ee-460a-bd78-3962ff750f24)
 <br>
 
+<h1>Updates</h1>
+
+![Added Grenades - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/63b0a3ba-c4c2-41e4-b0ef-3349e3c4914a)
+
 
