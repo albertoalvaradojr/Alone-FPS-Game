@@ -35,8 +35,8 @@ The game is a Work In Progress and will constantly be updated with new features 
 
 <h1>Updates</h1>
 
+<h2>Added throwable grenades that explode within a certain amount of time.</h2>
 ![Added Grenades - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/63b0a3ba-c4c2-41e4-b0ef-3349e3c4914a)
-Added throwable grenades that explode within a certain amount of time.
 <br>
 
 ![Grenade Damage - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/0967aa6a-f537-47c0-8132-ed5b83c469db)
