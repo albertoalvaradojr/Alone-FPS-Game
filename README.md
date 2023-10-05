@@ -36,10 +36,15 @@ The game is a Work In Progress and will constantly be updated with new features 
 <h1>Updates</h1>
 
 ![Added Grenades - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/63b0a3ba-c4c2-41e4-b0ef-3349e3c4914a)
+Added throwable grenades that explode within a certain amount of time.
+
 
 ![Grenade Damage - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/0967aa6a-f537-47c0-8132-ed5b83c469db)
+Grenades now damage enemies when within the area of the grenade.
 
 ![Added enemies - Made with Clipchamp](https://github.com/albertoalvaradojr/Alone-FPS-Game/assets/65637580/86693f2f-29ab-4e36-816b-41e5d24ae2fe)
+Added more enemies and health items that heal you.
+
 
 
 
